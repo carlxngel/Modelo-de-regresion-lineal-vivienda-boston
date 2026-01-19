@@ -227,5 +227,5 @@ El análisis completo se encuentra documentado en el archivo `ModelodeRegresión
 ## 📝 Autor
 
 **Modelo de Regresión Lineal - Predicción del Valor de Viviendas en Boston**  
-Análisis realizado: Enero 2023  
+Análisis realizado: Enero 2026  
 Actualizado: Enero 2026
